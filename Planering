@@ -1,0 +1,9 @@
+Vad ska jag göra
+Jag har fortsätta på en tidigare projekt som var ett visuellt klicker spel, jag hann bara göra det visuella men kopplade aldrig musen med bilden.
+Hur ska det fungera
+Det ska komma upp en röd kub någonstans i fönstret och du ska klicka på det, det bygger på ett poäng system en för varje klick. Jag skulle vilja kunna ha en timer som gör att kuben försvinner efter x antal sekunder
+Vilka funktioner ska det ha
+Klicka och få poäng
+Kuben ska kunna försvinna
+Kuben ska vara random x och y kordination i fönstret
+Om jag kan och hinner ska kuben försvinna efter x antal sekunder
